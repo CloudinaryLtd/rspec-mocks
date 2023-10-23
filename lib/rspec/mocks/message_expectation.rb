@@ -706,6 +706,7 @@ module RSpec
       def call(*args, &block)
         @block.call(@method, *args, &block)
       end
+      ruby2_keywords :call if respond_to?(:ruby2_keywords, true)
 
     private
 
