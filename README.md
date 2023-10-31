@@ -1,3 +1,6 @@
+## In cloudinary we use branch ruby_3_fix
+it supports fixes for ruby 3
+
 # RSpec Mocks [![Build Status](https://github.com/rspec/rspec-mocks/workflows/RSpec%20CI/badge.svg)](https://github.com/rspec/rspec-mocks/actions) [![Code Climate](https://codeclimate.com/github/rspec/rspec-mocks.svg)](https://codeclimate.com/github/rspec/rspec-mocks)
 rspec-mocks is a test-double framework for rspec with support for method stubs,
 fakes, and message expectations on generated test-doubles and real objects
